@@ -1,13 +1,13 @@
 ---
 title: |
-  | Exporing Discretionary Accruals: 
-  | A Stub Project^[I acknowledge financial support from Deutsche Forschungsgemeinschaft-Project-ID 403041268 - TRR 266.] \vspace{1cm}
+  | Fem X-Phi Femcolab: 
+  | Project Method Proposal \vspace{1cm}
 
 author: |
-  | Joachim Gassen 
-  | TRR 266 Accounting for Transparency
-  | Humboldt-Universität zu Berlin 
-  | gassen@wiwi.hu-berlin.de
+  | X-Phi FemColab 
+  | Experimental Philosophy Feminist Colaboratory 
+  | Various 
+  | XPhiFemCoLab@gmail.com
 
 date: |
   | `r loc <- Sys.getlocale(category = "LC_TIME"); Sys.setlocale("LC_TIME", "C"); fdate <- format(Sys.time(), '%B %e, %Y'); Sys.setlocale("LC_TIME", loc); fdate` \vspace{1cm}
